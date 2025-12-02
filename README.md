@@ -1,13 +1,13 @@
-# Plog
+# Blog
 
 ## Short Description
 
-Plog is a simple project starter/template (or app) — a foundation you can build on or extend easily.
+Blog is a simple project starter/template (or app) — a foundation you can build on or extend easily.
 
 ## Description
 
-Plog provides a clean, minimal setup to start a web (or software) project. It includes basic structure and code, so you can focus directly on building features instead of initial boilerplate.  
-Whether you want to use it as a learning base, a prototype foundation, or a full project scaffold — Plog gives you a ready-to-go starting point.
+Blog provides a clean, minimal setup to start a web (or software) project. It includes basic structure and code, so you can focus directly on building features instead of initial boilerplate.  
+Whether you want to use it as a learning base, a prototype foundation, or a full project scaffold — Blog gives you a ready-to-go starting point.
 
 ## Features / What It Offers
 
@@ -20,7 +20,7 @@ Whether you want to use it as a learning base, a prototype foundation, or a full
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/dinaamer488/Plog.git
+   git clone https://github.com/dinaamer488/-4-Blog.git
 Open the project (or main file) in your editor or browser.
 
 Customize: modify code, add pages/components, adapt styles/logic as needed.
